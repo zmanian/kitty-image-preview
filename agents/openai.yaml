@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kitty Image Preview"
+  short_description: "Show sharp screenshots in Rex and graphics terminals"
+  default_prompt: "Use $kitty-image-preview to show this image clearly in a dedicated terminal pane."
